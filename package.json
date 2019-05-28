@@ -1,5 +1,5 @@
 {
-  "name": "angularcli-patched-cryptiles",
+  "name": "@angular/cli",
   "version": "1.7.8",
   "description": "CLI tool for Angular",
   "main": "packages/@angular/cli/lib/cli/index.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/angular/angular-cli.git"
+    "url": "https://github.com/applegater/angular-cli.git"
   },
   "engines": {
     "node": ">= 6.9.0",
@@ -37,7 +37,7 @@
   "author": "Angular Authors",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angular/angular-cli/issues"
+    "url": "https://github.com/applegater/angular-cli/issues"
   },
   "homepage": "https://github.com/applegater/angular-cli",
   "dependencies": {
